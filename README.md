@@ -7,3 +7,5 @@ DSA Manager PWA for SIH 2019
 4.run quasar dev -m pwa to run dev server to see code edits live.
 
 imp files: quasar.conf.js, routes/routes.js (DO NOT EDIT), pages folder, layouts folder in src
+
+Resources: https://quasar-framework.org/components/
